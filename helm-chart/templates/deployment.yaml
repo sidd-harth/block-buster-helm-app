@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: {{ include "block-buster-helm-app.fullname" . }}
+  name: block-buster-helm-app
   labels:
     app: {{ .Values.labels.app.name }}
     version: {{ .Values.labels.app.version }}
