@@ -7,6 +7,6 @@ entries:
     digest: 2834bc26665ebfe199facd19fb0211565b003c8f2f0b13d77a9000c68abbe4f7
     name: block-buster-helm-app
     urls:
-    - block-buster-helm-app-7.6.0.tgz
+    - https://sidd-harth.github.io/block-buster-helm-app/block-buster-helm-app-7.6.0.tgz
     version: 7.6.0
 generated: "2023-02-05T00:08:28.840851262+05:30"
