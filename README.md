@@ -1,3 +1,6 @@
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/block-buster-app)](https://artifacthub.io/packages/search?repo=block-buster-app)
+
+
 # block-buster-helm-app
 
 1. This repo contains an helm artefact which will be linked to a repo in ArtifactHub. 
