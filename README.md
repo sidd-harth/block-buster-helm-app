@@ -15,6 +15,7 @@ replicaCount: 1
 
 service:
   type: NodePort
+  nodePort: 30006
 
 namespace:
   name: 6-demo
